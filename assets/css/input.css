@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Segoe_UI;
+    src: url(~/assets/Segoe_UI/Segoe_UI.ttf) ;
+  }
